@@ -1,0 +1,27 @@
+body {
+	background: url(https://img00.deviantart.net/f7c7/i/2017/286/5/5/south_park_s_chinpokomon_by_urbinator17-dbnrats.png);
+	font-size:25px;
+}
+
+.page-header {
+
+	background:orange;
+	text-align: center;
+
+}
+
+#Rules {
+	background:orange;
+}
+
+#Pokemon {
+	background:orange;
+}
+
+#Everything {
+	background:orange;
+}
+
+#total {
+	background:orange;
+}
